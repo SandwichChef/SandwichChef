@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm just a humble clerk trying to make it through life.
 - 🔭 I’m currently working on:
-  - (My blog)[https://foxears.life]
-  - (Writing stories in an original setting)[https://foxears.life/writing]
+  - [My blog](https://foxears.life)
+  - [Writing stories in an original setting](https://foxears.life/writing)
 - 🌱 I'm currently learning:
   - Music theory
   - The fundamentals of programming in general
@@ -26,4 +26,4 @@ I'm just a humble clerk trying to make it through life.
 - 👯 I’m looking to collaborate on
   - Making jazz
 - 🤔 I’m looking for help with:
-  - Getting started on a (personal roguelike/jrpg project)[https://gitlab.com/SandwichChef/Demiplane] in the same vein as Elona
+  - Getting started on a [personal roguelike/jrpg project](https://gitlab.com/SandwichChef/Demiplane) in the same vein as Elona
